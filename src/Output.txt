@@ -1,0 +1,18 @@
+"C:\Program Files\Java\jdk-18.0.1.1\bin\java.exe" -javaagent:C:\Users\imnsi\AppData\Local\JetBrains\Toolbox\apps\IDEA-C\ch-0\221.6008.13\lib\idea_rt.jar=53983:C:\Users\imnsi\AppData\Local\JetBrains\Toolbox\apps\IDEA-C\ch-0\221.6008.13\bin -Dfile.encoding=UTF-8 -classpath "C:\Users\imnsi\Desktop\NiitJavaProjects\course3\Sprint 3\c3_s3_mc1_OnlineBanking\out\production\c3_s3_mc1_OnlineBanking" SavingAccountImpl
+The customer Account number is :
+097933898863
+Customer name : Neeraj Kumar
+Account opening Date :12/05/2022
+Available Balance = 678900.67
+Account status : Active
+Is internet and Mobile banking Enabled : true
+Mode of operation :Self
+Enter amount to be debited
+
+456789
+your account is debited by 456789.0.The available balance is :222111.67000000004
+Enter amount to be credited
+789067
+your account is credited by 789067.0.The available balance is :1467967.67
+
+Process finished with exit code 0
